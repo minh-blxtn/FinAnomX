@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/jim-cramer-highlights-nvidia-corporation-001753821.html",
+      "url_mobile": "",
+      "title": "Jim Cramer Highlights NVIDIA Corporation ( NVDA ) As A Standout Despite Recent Negativity Surrounding Its Performance",
+      "seendate": "20240917T004500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-among-morgan-020642476.html",
+      "url_mobile": "",
+      "title": "NVIDIA Corporation ( NVDA ): Among Morgan Stanley Best Stock Picks for 2025",
+      "seendate": "20240917T023000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/jim-cramer-nvidia-corporation-nvda-150157198.html",
+      "url_mobile": "",
+      "title": "Jim Cramer on NVIDIA Corporation ( NVDA ):  Does anyone care about artificial intelligence anymore ? ",
+      "seendate": "20240914T163000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-on-nvidia-corporation-nvda-its-a-supply-problem-not-a-demand-problem-1352445/",
+      "url_mobile": "https://www.insidermonkey.com/blog/jim-cramer-on-nvidia-corporation-nvda-its-a-supply-problem-not-a-demand-problem-1352445/?amp=1",
+      "title": "Jim Cramer on NVIDIA Corporation ( NVDA ):  It A Supply Problem , Not A Demand Problem  ",
+      "seendate": "20240915T084500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153615/NVDA-insidermonkey-1695152172066.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-best-cryptocurrency-201333037.html",
+      "url_mobile": "",
+      "title": "Is NVIDIA Corporation ( NVDA ) The Best Cryptocurrency Stock To Buy Right Now ? ",
+      "seendate": "20240911T204500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4720507-nvidia-isnt-slowing-down-anytime-soon",
+      "url_mobile": "",
+      "title": "Nvidia Isnt Slowing Down Anytime Soon ( NASDAQ : NVDA ) ",
+      "seendate": "20240912T001500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1450615744/image_1450615744.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4149555-just-how-much-of-an-impact-does-nvidia-have-on-the-sp-500",
+      "url_mobile": "",
+      "title": "Just how much of an impact does Nvidia have on the S & P 500 ? ",
+      "seendate": "20240913T180000Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w750",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

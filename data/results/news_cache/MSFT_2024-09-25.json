@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/jim-cramer-reports-microsoft-corporation-143802095.html",
+      "url_mobile": "",
+      "title": "Jim Cramer Reports That  Microsoft Corporation ( MSFT ) Announced A 10 % Increase In Its Quarterly Dividend And Approved A New $60 Billion Stock Buyback Program  ",
+      "seendate": "20240920T151500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/Ehrz1CBybY_oskwS2bSRJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-best-stock-210729025.html",
+      "url_mobile": "",
+      "title": "Is Microsoft Corporation ( MSFT ) the Best Stock To Buy Right Now According To Billionaire Cliff Asness ? ",
+      "seendate": "20240925T214500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/Ehrz1CBybY_oskwS2bSRJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-reports-that-microsoft-corporation-msft-is-joining-blackrock-and-other-companies-to-raise-100-billion-to-develop-data-centers-for-ai-and-the-energy-infrastructure-to-power-them-1359071/",
+      "url_mobile": "https://www.insidermonkey.com/blog/jim-cramer-reports-that-microsoft-corporation-msft-is-joining-blackrock-and-other-companies-to-raise-100-billion-to-develop-data-centers-for-ai-and-the-energy-infrastructure-to-power-them-1359071/?amp=1",
+      "title": "Jim Cramer Reports That  Microsoft Corporation ( MSFT ) Is Joining BlackRock And Other Companies To Raise $100 Billion To Develop Data Centers For AI And The Energy Infrastructure To Power Them  ",
+      "seendate": "20240925T030000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19152304/MSFT-insidermonkey-1695151382226.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-microsoft-corporation-nasdaqmsft-one-of-the-top-stocks-among-all-sectors-to-buy-now-1359960/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-microsoft-corporation-nasdaqmsft-one-of-the-top-stocks-among-all-sectors-to-buy-now-1359960/?amp=1",
+      "title": "Is Microsoft Corporation ( NASDAQ : MSFT ) One Of The Top Stocks Among All Sectors To Buy Now ? ",
+      "seendate": "20240925T151500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/12/15131946/BHK-insidermonkey-1702664384020.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microsofts-ai-lead-shrinks-analyst-171021553.html",
+      "url_mobile": "",
+      "title": "Microsoft AI Lead Shrinks : Analyst Downgrades Stock As Amazon And Google Close The Gap",
+      "seendate": "20240923T174500Z",
+      "socialimage": "https://media.zenfs.com/en/Benzinga/6083f1c27c69ca03283734d8fc8f9b0b",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/09/24/nvidia-got-amazing-news-from-microsofts-chief-tech/",
+      "url_mobile": "",
+      "title": "Nvidia Got Amazing News From Microsoft Chief Technology Officer",
+      "seendate": "20240925T061500Z",
+      "socialimage": "",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4151679-microsoft-stands-at-forefront-of-intelligent-cloud-battleground-ms",
+      "url_mobile": "",
+      "title": "Microsoft stands near forefront of intelligent cloud battleground : MS",
+      "seendate": "20240922T154500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1373383119/image_1373383119.jpg?io=getty-c-w750",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

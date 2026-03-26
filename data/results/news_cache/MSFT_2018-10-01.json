@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investopedia.com/news/microsoft-may-fall-11-despite-bullish-profit-forecasts/",
+      "url_mobile": "",
+      "title": "Microsoft May Fall 11 % Despite Bullish Profit Forecasts",
+      "seendate": "20180927T110000Z",
+      "socialimage": "https://i.investopedia.com/image/jpeg/1537979032450/shutterstock_192614108_microsoft_office_sign_banner.jpg",
+      "domain": "investopedia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investorplace.com/2018/09/4-reasons-stick-microsoft-stock/",
+      "url_mobile": "https://investorplace.com/2018/09/4-reasons-stick-microsoft-stock/amp/",
+      "title": "4 Reasons You Definitely Should Stick with Microsoft Stock",
+      "seendate": "20180928T153000Z",
+      "socialimage": "https://investorplace.com/wp-content/uploads/2018/06/msftmsn-compressor.jpg",
+      "domain": "investorplace.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2018/10/01/if-youre-interested-in-microsoft-stock-read-this-f.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2018/10/01/if-youre-interested-in-microsoft-stock-read-this-f.aspx",
+      "title": "If Youre Interested in Microsoft Stock , Read This First -- The Motley Fool",
+      "seendate": "20181001T213000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/495815/campus.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2018/10/01/if-youre-interested-in-microsoft-stock-read-this-f.aspx",
+      "url_mobile": "https://www.fool.com/amp/investing/2018/10/01/if-youre-interested-in-microsoft-stock-read-this-f.aspx",
+      "title": "If Youre Interested in Microsoft Stock , Read This First -- The Motley Fool",
+      "seendate": "20181001T223000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/495815/campus.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.benchmarkmonitor.com/microsoft-corporation-nasdaqmsft-broadened-its-profile-as-a-secure-cloud-vendor/254700/",
+      "url_mobile": "",
+      "title": "Microsoft Corporation ( NASDAQ : MSFT ) broadened its profile as a secure cloud vendor",
+      "seendate": "20180925T134500Z",
+      "socialimage": "",
+      "domain": "benchmarkmonitor.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.benchmarkmonitor.com/morning-buzz-microsoft-corporation-nasdaqmsft/254848/",
+      "url_mobile": "",
+      "title": "Morning Buzz : Microsoft Corporation ( NASDAQ : MSFT ) ",
+      "seendate": "20180926T161500Z",
+      "socialimage": "",
+      "domain": "benchmarkmonitor.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.benchmarkmonitor.com/stock-in-focus-microsoft-corporation-nasdaqmsft/255158/",
+      "url_mobile": "",
+      "title": "Stock in Focus : Microsoft Corporation ( NASDAQ : MSFT ) ",
+      "seendate": "20180928T190000Z",
+      "socialimage": "",
+      "domain": "benchmarkmonitor.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

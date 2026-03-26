@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investors.com/news/technology/msft-stock-microsoft-trounces-fiscal-q1-goals/",
+      "url_mobile": "",
+      "title": "MSFT Stock : Microsoft Trounces Fiscal Q1 Goals | Investor Business Daily",
+      "seendate": "20231024T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/10/Stock-Microsoft-dynamics365-01-company.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.shacknews.com/article/137501/listen-to-msft-q1-2024-earnings-call",
+      "url_mobile": "https://www.shacknews.com/article/137501/listen-to-msft-q1-2024-earnings-call?amphtml=1",
+      "title": "Listen to Microsoft ( MSFT ) Q1 2024 earnings call here",
+      "seendate": "20231024T213000Z",
+      "socialimage": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/24/microsoft-sign_feature.jpg",
+      "domain": "shacknews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.shacknews.com/article/137510/msft-earnings-report-q1-2024",
+      "url_mobile": "https://www.shacknews.com/article/137510/msft-earnings-report-q1-2024?amphtml=1",
+      "title": "Microsoft ( MSFT ) Q1 2024 earnings results beat EPS & revenue expectations",
+      "seendate": "20231024T213000Z",
+      "socialimage": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/24/microsoft-msft-q1-2024_feature.jpg",
+      "domain": "shacknews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/Earnings/Microsoft+(MSFT)+Tops+Q1+EPS+by+34c/22306491.html",
+      "url_mobile": "",
+      "title": "Microsoft ( MSFT ) Tops Q1 EPS by 34c",
+      "seendate": "20231025T051500Z",
+      "socialimage": "http://www.streetinsider.com/https://www.streetinsider.com/images/summaries/6/resize_MSFTSatyaNadellaRE_63c8029fa09eb.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/microsofts-growth-has-trailed-that-of-peers-but-the-trend-could-soon-flip-in-a-big-way-ad3446f0",
+      "url_mobile": "https://www.marketwatch.com/amp/story/microsofts-growth-has-trailed-that-of-peers-but-the-trend-could-soon-flip-in-a-big-way-ad3446f0",
+      "title": "Microsoft growth has trailed that of peers , but the trend could soon flip",
+      "seendate": "20231026T153000Z",
+      "socialimage": "https://images.mktw.net/im-875917/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/data-news/microsoft-corp-stock-outperforms-competitors-despite-losses-on-the-day-b0a6d2e6-55a484981c4f",
+      "url_mobile": "https://www.marketwatch.com/amp/data-news/microsoft-corp-stock-outperforms-competitors-despite-losses-on-the-day-b0a6d2e6-55a484981c4f",
+      "title": "Microsoft Corp . stock outperforms competitors despite losses on the day",
+      "seendate": "20231020T210000Z",
+      "socialimage": "https://images.mktw.net/im-220105/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.shacknews.com/article/137519/xbox-hardware-revenue-fell-7-percent-q1-2024",
+      "url_mobile": "https://www.shacknews.com/article/137519/xbox-hardware-revenue-fell-7-percent-q1-2024?amphtml=1",
+      "title": "Xbox hardware revenue fell 7 % in Q1 2024",
+      "seendate": "20231025T023000Z",
+      "socialimage": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/24/xbox-hardware-revenue-fell-7-percent-in-q1-2024_feature.jpg",
+      "domain": "shacknews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

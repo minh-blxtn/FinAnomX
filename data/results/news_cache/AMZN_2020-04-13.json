@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.benzinga.com/topic/jeff-bezos",
+      "url_mobile": "",
+      "title": "Jeff Bezos | Benzinga",
+      "seendate": "20200408T051500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/topic/amazon-shipping",
+      "url_mobile": "",
+      "title": "Amazon Shipping",
+      "seendate": "20200408T051500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/topic/e-commerce",
+      "url_mobile": "",
+      "title": "e - commerce | Benzinga",
+      "seendate": "20200407T011500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/topic/whole-foods",
+      "url_mobile": "",
+      "title": "Whole Foods",
+      "seendate": "20200413T221500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coinspeaker.com/amzn-stock-up-amazon-delivery/",
+      "url_mobile": "https://www.coinspeaker.com/amzn-stock-up-amazon-delivery/amp/",
+      "title": "AMZN Stock Up 0 . 47 % in Pre - market , Amazon Halts Its Delivery Service",
+      "seendate": "20200408T150000Z",
+      "socialimage": "https://www.coinspeaker.com/wp-content/uploads/2020/04/amzn-stock-up-amazon-delivery.jpg",
+      "domain": "coinspeaker.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/topic/fang-stocks",
+      "url_mobile": "",
+      "title": "FANG Stocks",
+      "seendate": "20200409T201500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/topic/new-york-city",
+      "url_mobile": "",
+      "title": "New York City | Benzinga",
+      "seendate": "20200407T200000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿Component,Scope / period,Records,Key fields / outputs,Role in report
+Raw market + macro panel,4 tickers | 2018-02-01 to 2024-12-30,"6,956",OHLCV + VIX + DGS10 + FEDFUNDS + CPI,Input market-macro backbone used for anomaly screening.
+Processed feature panel,4 tickers | 2018-04-30 to 2024-12-30,"6,716","returns, RSI, MACD, rolling volatility, volume z-score, macro diffs",Engineered feature space fed into detectors and XAI.
+News retrieval candidates (raw),Peak-centered article search windows,236,"article_title, article_summary, article_text, domain, tone",Initial evidence pool before quality filtering.
+Usable enriched news evidence,After content enrichment and filtering,162,"full_text / summary evidence, sentiment, embeddings",Article evidence actually eligible for grounding.
+Episode peaks in analysis window,2023-01-01 to 2024-12-31,25,"subtype, main_score, abnormal summary",Peak anomalies used in the main analysis period.
+Grounded peak cases in analysis window,2023-01-01 to 2024-12-31,25,"top_event_title, confidence_score, evidence_text",Cases used for event attribution analysis.
+Counterfactual evaluated peaks,Grounded peaks with query-ablation checks,25,"cf_strength, support_level, top1_changed",Used to test whether the proposed cause is robust.
+Chat-ready artifact,Packaged explanation records,"6,716",numeric summary + event summary + full summary,Supports dashboard and grounded chatbot outputs.

@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investopedia.com/news/microsoft-may-rebound-new-record-after-pullback/",
+      "url_mobile": "",
+      "title": "Microsoft May Rebound To New Record After Pullback",
+      "seendate": "20181017T194500Z",
+      "socialimage": "https://i.investopedia.com/image/jpeg/1539798130938/ap120117169934.jpg",
+      "domain": "investopedia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.benzinga.com/topic/paul-allen",
+      "url_mobile": "",
+      "title": "Paul Allen | Benzinga",
+      "seendate": "20181016T163000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investorplace.com/2018/10/expect-microsoft-to-move-higher-on-strong-tech-earnings/",
+      "url_mobile": "https://investorplace.com/2018/10/expect-microsoft-to-move-higher-on-strong-tech-earnings/amp/",
+      "title": "Expect Microsoft to Move Higher on Strong Tech Earnings",
+      "seendate": "20181016T230000Z",
+      "socialimage": "https://investorplace.com/wp-content/uploads/2017/03/msftmsn.jpg",
+      "domain": "investorplace.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investorplace.com/2018/10/mark-your-calendar-for-microsoft-earnings/",
+      "url_mobile": "https://investorplace.com/2018/10/mark-your-calendar-for-microsoft-earnings/amp/",
+      "title": "Mark Your Calendar for Microsoft Earnings",
+      "seendate": "20181017T224500Z",
+      "socialimage": "https://investorplace.com/wp-content/uploads/2018/06/msftmsn-compressor.jpg",
+      "domain": "investorplace.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanzen.ch/nachrichten/aktien/microsoft-announces-quarterly-earnings-release-date-1027610968",
+      "url_mobile": "",
+      "title": "Microsoft announces quarterly earnings release date | 12 . 10 . 18",
+      "seendate": "20181012T003000Z",
+      "socialimage": "",
+      "domain": "finanzen.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.marketwatch.com/press-release/microsoft-announces-quarterly-earnings-release-date-2018-10-11",
+      "url_mobile": "",
+      "title": "Microsoft announces quarterly earnings release date",
+      "seendate": "20181011T233000Z",
+      "socialimage": "",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fairfieldcurrent.com/2018/10/12/microsoft-co-msft-position-reduced-by-pensionfund-dsm-netherlands.html",
+      "url_mobile": "https://www.fairfieldcurrent.com/2018/10/12/microsoft-co-msft-position-reduced-by-pensionfund-dsm-netherlands.html/amp",
+      "title": "Microsoft Co . ( MSFT ) is Pensionfund DSM Netherland 2nd Largest Position",
+      "seendate": "20181012T080000Z",
+      "socialimage": "",
+      "domain": "fairfieldcurrent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

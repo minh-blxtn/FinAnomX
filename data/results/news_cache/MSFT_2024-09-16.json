@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/jim-cramer-highlights-microsoft-corporation-034153803.html",
+      "url_mobile": "",
+      "title": "Jim Cramer Highlights How Microsoft Corporation ( MSFT ) Downturn Set the Stage for a Strong Recovery",
+      "seendate": "20240916T041500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/Ehrz1CBybY_oskwS2bSRJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/microsofts-cloud-woes-a-warning-sign-for-ai-1348499/",
+      "url_mobile": "https://www.insidermonkey.com/blog/microsofts-cloud-woes-a-warning-sign-for-ai-1348499/?amp=1",
+      "title": "Microsoft Cloud Woes : A Warning Sign for AI ? ",
+      "seendate": "20240911T204500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/05/shutterstock_272871062.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-microsoft-corporation-msft-set-for-a-comeback-after-recent-stock-declines-1351397/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-microsoft-corporation-msft-set-for-a-comeback-after-recent-stock-declines-1351397/?amp=1",
+      "title": "Is Microsoft Corporation ( MSFT ) Set for a Comeback After Recent Stock Declines ? ",
+      "seendate": "20240915T161500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19152304/MSFT-insidermonkey-1695151382226.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4720074-i-sold-all-my-microsoft-shares-openai-edge-fading-away",
+      "url_mobile": "",
+      "title": "I Sold All My Microsoft Shares , OpenAI Edge Fading Away ( NASDAQ : MSFT ) ",
+      "seendate": "20240910T171500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1678512509/image_1678512509.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4148789-openai-reportedly-in-talks-for-65b-funding-at-a-150b-valuation",
+      "url_mobile": "",
+      "title": "OpenAI reportedly in talks for $6 . 5B in funding at a $150B valuation ( NASDAQ : MSFT ) ",
+      "seendate": "20240912T001500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1778704898/image_1778704898.jpg?io=getty-c-w750",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/09/10/opinion-these-3-artificial-intelligence-ai-stocks/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Opinion : These 2 Artificial Intelligence ( AI ) Stocks Are Recession - Proof",
+      "seendate": "20240910T163000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/790051/gettyimages-1394663007.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investopedia.com/microsoft-reportedly-slashing-650-jobs-in-latest-round-of-xbox-cuts-8711208",
+      "url_mobile": "",
+      "title": "Microsoft Reportedly Slashing 650 Jobs in Latest Round of Xbox Cuts",
+      "seendate": "20240912T184500Z",
+      "socialimage": "https://www.investopedia.com/thmb/bRZ3_SZXg9XNKDqbk85k0ZtHBUE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2167133363-da40e123ba7d4411a31ab41e1a910efb.jpg",
+      "domain": "investopedia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

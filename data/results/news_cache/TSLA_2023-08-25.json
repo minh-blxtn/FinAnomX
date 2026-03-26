@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investors.com:443/news/tesla-stock-wrestles-with-resistance-in-possible-turnaround-week/",
+      "url_mobile": "",
+      "title": "Tesla Stock Wrestles With Resistance In Possible Turnaround Week",
+      "seendate": "20230823T161500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/01/Stock-Tesla-modelY-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://edition.cnn.com/2023/08/19/business/tesla-data-breach-employee-personal-info/",
+      "url_mobile": "https://amp.cnn.com/cnn/2023/08/19/business/tesla-data-breach-employee-personal-info/index.html",
+      "title": "Tesla begins notifying workers who were affected by data breach",
+      "seendate": "20230819T183000Z",
+      "socialimage": "https://media.cnn.com/api/v1/images/stellar/prod/230801095857-tesla-model-y-0531.jpg?c=16x9&q=w_800,c_fill",
+      "domain": "edition.cnn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/Corporate+News/Tesla+(TSLA)+reveals+May+data+breach+was+an+inside+job/22069622.html",
+      "url_mobile": "",
+      "title": "Tesla ( TSLA ) reveals May data breach was an inside job",
+      "seendate": "20230821T183000Z",
+      "socialimage": "http://www.streetinsider.com/https://www.streetinsider.com/images/summaries/1248/resize_TeslaFlagRE_62de7bca5aea8.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1024627/tesla-superchargers-could-be-20b-business-by-2030-1024627.html",
+      "url_mobile": "",
+      "title": "Tesla superchargers could be $20B business by 2030",
+      "seendate": "20230825T141500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stMTM0ODMzNTQ0Ni1UZXNsYV82NGU4YWMwYjAzYWM5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/Corporate+News/Tesla+(TSLA)+virtual+power+plants+will+energize+Texas+grid/22084507.html",
+      "url_mobile": "",
+      "title": "Tesla ( TSLA ) virtual power plants will energize Texas grid",
+      "seendate": "20230824T153000Z",
+      "socialimage": "http://www.streetinsider.com/https://www.streetinsider.com/images/summaries/1248/resize_TeslaFlagRE_62de7bca5aea8.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://article.wn.com/view/2023/08/22/Tesla_says_two_exemployees_behind_May_data_breach/",
+      "url_mobile": "",
+      "title": "Tesla says two ex - employees behind May data breach",
+      "seendate": "20230822T024500Z",
+      "socialimage": "",
+      "domain": "article.wn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/Corporate+News/Tesla+(TSLA)+Investors+can+expect+to+see+payouts+from+Elon+Musks+SEC+settlement+soon/22085375.html",
+      "url_mobile": "",
+      "title": "Tesla ( TSLA ) Investors can expect to see payouts from Elon Musk SEC settlement soon",
+      "seendate": "20230824T184500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

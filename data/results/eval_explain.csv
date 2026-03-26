@@ -1,0 +1,13 @@
+metric,value
+faithfulness_pass_rate,1.0
+faithfulness_mean_drop_abs,0.2217530948835781
+stability_mean_overlap_top5,0.6285714285714286
+stability_mean_spearman_feat,0.5864842640352844
+grounding_mean_confidence_all_ranked,0.6890551908951095
+grounding_top1_mean_confidence,0.7947721822942097
+grounding_top1_full_or_summary_share,1.0
+grounding_top1_full_text_share,0.84
+grounding_top1_cluster_consensus,0.9092605341281593
+counterfactual_mean_strength,0.8031623241319755
+counterfactual_top1_changed_share,0.24
+counterfactual_strong_support_share,0.84

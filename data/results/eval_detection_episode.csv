@@ -1,0 +1,9 @@
+model,base_model,variant,event_hit_rate,event_delay_median,event_count
+patchtst_tranad,patchtst_tranad,static,0.09615384615384616,0.0,208
+patchtst_tranad_adapt,patchtst_tranad,adapt,0.09134615384615384,0.0,208
+patchtst,patchtst,static,0.0,,208
+patchtst_adapt,patchtst,adapt,0.11538461538461539,-1.0,208
+tranad,tranad,static,0.22596153846153846,0.0,208
+tranad_adapt,tranad,adapt,0.2548076923076923,0.0,208
+chronos,chronos,static,0.1875,1.0,208
+chronos_adapt,chronos,adapt,0.21153846153846154,1.0,208

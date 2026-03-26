@@ -1,0 +1,5 @@
+group,ticker,event_type,model,variant,event_windows,event_hit_rate,delay_mean,delay_median,n_peaks
+peak_event_overall,ALL,ALL,main_peak,peak,208,0.03365384615384615,0.14285714285714285,0.0,31
+peak_event_by_type,ALL,CPI,main_peak,peak,104,0.0,,,31
+peak_event_by_type,ALL,EARNINGS,main_peak,peak,40,0.075,0.3333333333333333,1.0,31
+peak_event_by_type,ALL,FOMC,main_peak,peak,64,0.0625,0.0,0.0,31

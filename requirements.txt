@@ -1,0 +1,54 @@
+# ---- core ----
+python-dotenv
+pydantic
+pyyaml
+loguru
+tqdm
+rich
+rapidfuzz
+
+# ---- data ----
+pandas
+numpy
+pyarrow
+scipy
+
+# ---- ingest ----
+yfinance
+fredapi
+
+# ---- features / time ----
+ta
+python-dateutil
+pandas-market-calendars
+
+# ---- baselines / stats ----
+scikit-learn
+statsmodels
+ruptures
+
+# ---- deep learning ----
+torch
+einops
+
+# ---- XAI  ----
+captum
+# timeshap  
+
+# ---- NLP / retrieval  ----
+transformers
+sentence-transformers
+faiss-cpu
+
+# ---- news crawl ----
+requests
+feedparser
+beautifulsoup4
+lxml
+
+# ---- web app ----
+streamlit
+plotly
+streamlit-plotly-events
+rapidfuzz
+python-dateutil

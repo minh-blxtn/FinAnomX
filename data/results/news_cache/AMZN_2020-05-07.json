@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.benzinga.com/topic/amazon",
+      "url_mobile": "",
+      "title": "Amazon | Benzinga",
+      "seendate": "20200506T161500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/topic/aws",
+      "url_mobile": "",
+      "title": "AWS | Benzinga",
+      "seendate": "20200502T160000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coinspeaker.com/amazon-stock-price-aws-upward/",
+      "url_mobile": "https://www.coinspeaker.com/amazon-stock-price-aws-upward/amp/",
+      "title": "Amazon ( AMZN ) Stock Price Up 1 . 50 %, AWS Holds Potential for Upward Movement",
+      "seendate": "20200504T190000Z",
+      "socialimage": "https://www.coinspeaker.com/wp-content/uploads/2020/05/amazon-amzn-aws-stock.jpg",
+      "domain": "coinspeaker.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/3568490-amazons-french-warehouses-remain-closed",
+      "url_mobile": "https://seekingalpha.com/amp/news/3568490-amazons-french-warehouses-remain-closed",
+      "title": "Amazon French warehouses remain closed ( NASDAQ : AMZN ) ",
+      "seendate": "20200504T184500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coinspeaker.com/amazon-stock-vp-quits/",
+      "url_mobile": "https://www.coinspeaker.com/amazon-stock-vp-quits/amp/",
+      "title": "Amazon ( AMZN ) Stock Up Nearly 1 %, Amazon VP Quits over Virus Firings",
+      "seendate": "20200505T174500Z",
+      "socialimage": "https://www.coinspeaker.com/wp-content/uploads/2020/05/amazon-stock-vp-quits.jpg",
+      "domain": "coinspeaker.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/topic/mayday",
+      "url_mobile": "",
+      "title": "Mayday | Benzinga",
+      "seendate": "20200501T164500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/topic/books",
+      "url_mobile": "",
+      "title": "books | Benzinga",
+      "seendate": "20200503T190000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

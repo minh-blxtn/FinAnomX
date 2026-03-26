@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "http://www.benzinga.com/topic/scott-acheychek",
+      "url_mobile": "",
+      "title": "Scott Acheychek",
+      "seendate": "20200327T201500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/20/03/15694889/amazon-analyst-on-positives-negatives-of-coronavirus-spending-a-material-impact",
+      "url_mobile": "https://amp.benzinga.com/amp/content/15694889",
+      "title": "Amazon . com , Inc . ( NASDAQ : AMZN ), Netflix , Inc . ( NASDAQ : NFLX ) - Amazon Analyst On Positives , Negatives Of Coronavirus Spending :  A Material Impact  ",
+      "seendate": "20200330T173000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coinspeaker.com/amazon-stock-winner-faang/",
+      "url_mobile": "https://www.coinspeaker.com/amazon-stock-winner-faang/amp/",
+      "title": "Amazon ( AMZN ) Stock Rises 0 . 79 % in Pre - market , Is It Winner among FAANG ? ",
+      "seendate": "20200330T160000Z",
+      "socialimage": "https://www.coinspeaker.com/wp-content/uploads/2020/03/amazon-stock-winner-faang.jpg",
+      "domain": "coinspeaker.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/3556446-amazon-hires-former-boeing-exec-drone-head",
+      "url_mobile": "https://seekingalpha.com/amp/news/3556446-amazon-hires-former-boeing-exec-drone-head",
+      "title": "Amazon hires former Boeing exec as drone head",
+      "seendate": "20200330T194500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/20/03/15708020/this-chart-shows-e-commerce-winners-losers-during-coronavirus-pandemic",
+      "url_mobile": "https://amp.benzinga.com/amp/content/15708020",
+      "title": "eBay Inc . ( NASDAQ : EBAY ), Etsy Inc . ( NASDAQ : ETSY ) - This Chart Shows E - Commerce Winners , Losers During Coronavirus Pandemic",
+      "seendate": "20200331T211500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/chart-shows-e-commerce-winners-205645039.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/chart-shows-e-commerce-winners-205645039.html",
+      "title": "This Chart Shows E - Commerce Winners , Losers During Coronavirus Pandemic",
+      "seendate": "20200401T043000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/TC67pBsIJjh_scpw8R1PUg--~B/aD00MDA7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Benzinga/49f57824abd9f0805d146fbaa8e703fe",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amazon-shop-rite-parent-snap-up-fairway-assets-in-bankruptcy-auction-2020-03-27",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/E3588D98-61D1-4914-9333-FD84F8C239B5",
+      "title": "Amazon , Shop Rite parent snap up Fairway assets in bankruptcy auction",
+      "seendate": "20200327T174500Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investopedia.com/news/why-microsofts-stock-breaking-down/",
+      "url_mobile": "",
+      "title": "Why Microsoft Stock Is Breaking Down",
+      "seendate": "20181030T183000Z",
+      "socialimage": "https://i.investopedia.com/image/jpeg/1540919663456/shutterstock_192614108_microsoft_office_sign_banner.jpg",
+      "domain": "investopedia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/760144/microsoft-corp-msft-ceo-satya-nadella-sold-217-million-of-shares",
+      "url_mobile": "",
+      "title": "Oct 26 , 2018 - Microsoft Corp ( MSFT ) CEO Satya Nadella Sold $21 . 7 million of Shares",
+      "seendate": "20181027T013000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investorplace.com/2018/10/3-big-tech-stocks-to-short/",
+      "url_mobile": "https://investorplace.com/2018/10/3-big-tech-stocks-to-short/amp/",
+      "title": "3 Big Tech Stocks to Short",
+      "seendate": "20181030T171500Z",
+      "socialimage": "https://investorplace.com/wp-content/uploads/2017/08/shortmsn.jpg",
+      "domain": "investorplace.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.benchmarkmonitor.com/market-mover-microsoft-corporation-nasdaqmsft/259157/",
+      "url_mobile": "",
+      "title": "Market Mover : Microsoft Corporation ( NASDAQ : MSFT ) ",
+      "seendate": "20181030T204500Z",
+      "socialimage": "",
+      "domain": "benchmarkmonitor.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.benchmarkmonitor.com/market-beat-microsoft-corporation-nasdaqmsft/259768/",
+      "url_mobile": "",
+      "title": "Market Beat : Microsoft Corporation ( NASDAQ : MSFT ) ",
+      "seendate": "20181102T210000Z",
+      "socialimage": "",
+      "domain": "benchmarkmonitor.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investing.com/analysis/watch-this-key-trade-level-for-microsoft-msft-200351891",
+      "url_mobile": "https://m.investing.com/analysis/watch-this-key-trade-level-for-microsoft-msft-200351891?ampMode=1",
+      "title": "Microsoft : Here The Trade",
+      "seendate": "20181030T174500Z",
+      "socialimage": "",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.benzinga.com/topic/macbook-air",
+      "url_mobile": "",
+      "title": "macbook air",
+      "seendate": "20181030T181500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

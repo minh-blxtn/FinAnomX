@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.insidermonkey.com/blog/microsoft-corporation-msfts-revenue-grew-12-in-q4-1246285/",
+      "url_mobile": "",
+      "title": "Microsoft Corporation ( MSFT ) Revenue Grew 12 % in Q4",
+      "seendate": "20240116T103000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19152304/MSFT-insidermonkey-1695151382226.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-revenue-grew-052222419.html",
+      "url_mobile": "",
+      "title": "Microsoft Corporation ( MSFT ) Revenue Grew 12 % in Q4",
+      "seendate": "20240116T060000Z",
+      "socialimage": "https://media.zenfs.com/en/insidermonkey.com/642a8fd87342350c7d2e74e81caadb38",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4663713-microsoft-ai-hype-real-market-not-foolish",
+      "url_mobile": "",
+      "title": "Microsoft Stock : Why The AI Hype Is Real , But The Market Isnt Foolish ( NASDAQ : MSFT ) ",
+      "seendate": "20240119T143000Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1454747379/image_1454747379.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4056580-federal-regulators-tussle-over-who-will-probe-microsoft-openai-report",
+      "url_mobile": "",
+      "title": "Federal regulators tussle over who will probe Microsoft - OpenAI - report ( NASDAQ : MSFT ) ",
+      "seendate": "20240119T211500Z",
+      "socialimage": "https://media.gettyimages.com/id/1793652549/photo/this-illustration-photo-produced-in-arlington-virginia-on-november-20-shows-a-smart-phone.jpg?b=1&s=594x594&k=20&c=8OMp1R7oGnQg6bypx4TH33kSdiXTN2xntv3MnTk3SNo=",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4055597-microsoft-expands-copilot-earns-incremental-positive-citi",
+      "url_mobile": "",
+      "title": "Microsoft expands Copilot , earns incremental positive : Citi",
+      "seendate": "20240117T151500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1251913166/image_1251913166.jpg?io=getty-c-w750",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/AI/This+cybersecurity+stock+is+the+early+winner+from+MSFT+Security+Copilot+launch+-+analyst/22650315.html",
+      "url_mobile": "",
+      "title": "This cybersecurity stock is the early winner from MSFT Security Copilot launch",
+      "seendate": "20240119T171500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/01/17/is-microsoft-the-best-dow-jones-stock-to-buy-right/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Is Microsoft the Best Dow Jones Stock to Buy Right Now ? ",
+      "seendate": "20240117T151500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/760938/person-overlooking-a-datacenter.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

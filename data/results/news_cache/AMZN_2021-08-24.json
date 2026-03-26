@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.msn.com/en-us/money/topstocks/amzn-after-hours-amazon-stock-jumps-rally-ahead/ar-AANEjWS",
+      "url_mobile": "",
+      "title": "AMZN After Hours : Amazon Stock Jumps , Rally Ahead ? ",
+      "seendate": "20210823T203000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thestreet.com/amazon/stock/amazon-stock-why-investors-should-not-worry",
+      "url_mobile": "https://www.thestreet.com/amazon/.amp/stock/amazon-stock-why-investors-should-not-worry",
+      "title": "Amazon Stock : Why Investors Should Not Worry",
+      "seendate": "20210819T124500Z",
+      "socialimage": "",
+      "domain": "thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/jim-cramer/jim-cramer-the-days-of-amazon-as-death-star-are-over-15749919",
+      "url_mobile": "",
+      "title": "Jim Cramer : The Days of Amazon as Death Star Are Over",
+      "seendate": "20210824T200000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/38f2da1c-a857-11e7-ac45-05c939702556.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-plans-open-large-physical-retail-stores-us-wsj-2021-08-19/",
+      "url_mobile": "",
+      "title": "Amazon plans to open large physical retail stores in U . S . - WSJ",
+      "seendate": "20210819T134500Z",
+      "socialimage": "https://www.reuters.com/resizer/ZqOvHSHwoOQaT18oZmgNDXQuOlU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F74366ADYZMUJEKQA45KFBGXL4.jpg",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amazon-plans-to-open-large-retail-locations-akin-to-department-stores-11629377925",
+      "url_mobile": "",
+      "title": "Amazon plans to open large retail locations akin to department stores",
+      "seendate": "20210819T131500Z",
+      "socialimage": "https://images.mktw.net/im-242163/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amazon-com-inc-stock-outperforms-competitors-on-strong-trading-day-01629750638-414f728c959a",
+      "url_mobile": "https://www.marketwatch.com/amp/story/amazon-com-inc-stock-outperforms-competitors-on-strong-trading-day-01629750638-414f728c959a",
+      "title": "Amazon . com Inc . stock outperforms competitors on strong trading day",
+      "seendate": "20210823T211500Z",
+      "socialimage": "https://images.mktw.net/im-215086/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amazon-com-inc-stock-falls-thursday-underperforms-market-01629405040-0dab3ae2af20",
+      "url_mobile": "https://www.marketwatch.com/amp/story/amazon-com-inc-stock-falls-thursday-underperforms-market-01629405040-0dab3ae2af20",
+      "title": "Amazon . com Inc . stock falls Thursday , underperforms market",
+      "seendate": "20210819T210000Z",
+      "socialimage": "https://images.mktw.net/im-215086/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

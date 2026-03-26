@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-represents-24-070609018.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/nvidia-corporation-nvda-represents-24-070609018.html",
+      "title": "NVIDIA Corporation ( NVDA ) Represents 24 % of Okeefe Stevens Advisory Portfolio",
+      "seendate": "20230724T080000Z",
+      "socialimage": "https://media.zenfs.com/en/insidermonkey.com/dc622e4a6a42968cdf853070bc8e5b4c",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.businessinsider.com/news/stocks/ai-chip-stocks-to-buy-1032481010",
+      "url_mobile": "",
+      "title": "If You Can Only Buy One AI Chip Stock , It Better Be One of These 3 Names",
+      "seendate": "20230726T180000Z",
+      "socialimage": "",
+      "domain": "markets.businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/07/21/tesla-and-elon-musk-just-made-me-a-bigger-nvidia-b/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Tesla and Elon Musk Just Made Me a Bigger Nvidia Bull",
+      "seendate": "20230721T111500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/740607/jose-najarro-2023-07-20t133541630.png",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/nvidia-is-dominating-and-could-unlock-300-billion-in-ai-revenue-by-2027-analyst-says-915935c0",
+      "url_mobile": "https://www.marketwatch.com/amp/story/nvidia-is-dominating-and-could-unlock-300-billion-in-ai-revenue-by-2027-analyst-says-915935c0",
+      "title": "Nvidia is  dominating  and could unlock $300 billion in AI revenue by 2027 , analyst says",
+      "seendate": "20230724T121500Z",
+      "socialimage": "https://images.mktw.net/im-793555/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/07/21/3-billion-reasons-to-buy-nvidia-stock-hand-over-fi/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "3 Billion Reasons to Buy Nvidia Stock Hand Over Fist Right Now",
+      "seendate": "20230721T111500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/740373/artificial-intelligence-ai-on-circuit-board.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/07/21/3-billion-reasons-to-buy-nvidia-stock-hand-over-fi/",
+      "url_mobile": "",
+      "title": "3 Billion Reasons to Buy Nvidia Stock Hand Over Fist Right Now",
+      "seendate": "20230721T133000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/740373/artificial-intelligence-ai-on-circuit-board.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.aastocks.com/en/stocks/news/aafn-news/NOW.1277825/",
+      "url_mobile": "",
+      "title": "NVIDIA A800 Chip Price Leapfrogs 20 % in CN amid Sales Ban Rumors",
+      "seendate": "20230722T094500Z",
+      "socialimage": "http://plib.aastocks.com/aafnnews/image/medialib/20230530174911722_m.jpg",
+      "domain": "aastocks.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/nvidia-continues-to-show-it-has-significant-advantages-over-rivals-analyst-says-in-boosting-bullish-view-1d22ec08",
+      "url_mobile": "https://www.marketwatch.com/amp/story/nvidia-continues-to-show-it-has-significant-advantages-over-rivals-analyst-says-in-boosting-bullish-view-1d22ec08",
+      "title": "Nvidia continues to show it has  significant advantages , analyst says",
+      "seendate": "20230629T140000Z",
+      "socialimage": "https://images.mktw.net/im-809149/horizontal",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-cfo-expects-no-significant-183857642.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/nvidia-cfo-expects-no-significant-183857642.html",
+      "title": "Nvidia CFO Expects No Significant Impact From Latest US Embargo",
+      "seendate": "20230628T193000Z",
+      "socialimage": "https://media.zenfs.com/en/Benzinga/68d7fb1845306d9eaba337de7bc84e47",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2023/06/28/nvidia-knocks-down-concern-over-ai-chip-exports-to-china.html",
+      "url_mobile": "",
+      "title": "Nvidia knocks down concern over AI chip exports to China",
+      "seendate": "20230628T210000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107203628-1678115338943-A100_3.jpg?v=1687980327",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/nvidia-stock-price-ai-tesla-5af5041c",
+      "url_mobile": "",
+      "title": "Nvidia Stock Is Down . Blame Tesla . ",
+      "seendate": "20230626T214500Z",
+      "socialimage": "https://images.barrons.com/im-807167/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/10752213/armstrong-henry-h-associates-inc-increases-holdings-in-nvidia-co-nasdaqnvda.html",
+      "url_mobile": "",
+      "title": "Armstrong Henry H Associates Inc . Increases Holdings in NVIDIA Co . ( NASDAQ : NVDA ) ",
+      "seendate": "20230624T140000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/nvidia-slides-biden-prepares-new-ai-chip-export-curbs-china",
+      "url_mobile": "",
+      "title": "Nvidia Slides As Biden Prepares New AI Chip Export Curbs To China",
+      "seendate": "20230628T061500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-06/nvidia%20chip.jpg?h=b7fb795e&itok=i_VpuU3d",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/06/24/nvidia-co-nasdaqnvda-director-sells-33838161-00-in-stock.html",
+      "url_mobile": "",
+      "title": "NVIDIA Co . ( NASDAQ : NVDA ) Director Sells $33 , 838 , 161 . 00 in Stock",
+      "seendate": "20230624T084500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

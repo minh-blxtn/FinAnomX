@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.thestreet.com/amazon/stock/amazon-stock-should-you-buy-it-in-march",
+      "url_mobile": "https://www.thestreet.com/amazon/.amp/stock/amazon-stock-should-you-buy-it-in-march",
+      "title": "Amazon Stock : Should You Buy It in March ? ",
+      "seendate": "20220301T160000Z",
+      "socialimage": "",
+      "domain": "thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2022/02/26/why-now-may-be-the-perfect-time-to-buy-amazon/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Why Now May Be the Perfect Time to Buy Amazon",
+      "seendate": "20220226T114500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/667507/gettyimages-1287493691.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amazon-com-inc-stock-rises-friday-still-underperforms-market-01645824621-31d104af27b0",
+      "url_mobile": "https://www.marketwatch.com/amp/story/amazon-com-inc-stock-rises-friday-still-underperforms-market-01645824621-31d104af27b0",
+      "title": "Amazon . com Inc . stock rises Friday , still underperforms market",
+      "seendate": "20220225T220000Z",
+      "socialimage": "https://images.mktw.net/im-215086/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/amazon-com-inc-stock-falls-tuesday-underperforms-market-01646170222-3c72d642cbf9",
+      "url_mobile": "https://www.marketwatch.com/amp/story/amazon-com-inc-stock-falls-tuesday-underperforms-market-01646170222-3c72d642cbf9",
+      "title": "Amazon . com Inc . stock falls Tuesday , underperforms market",
+      "seendate": "20220301T220000Z",
+      "socialimage": "https://images.mktw.net/im-215086/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/10-stocks-to-buy-now-according-to-hari-hariharans-nwi-management-1029008/",
+      "url_mobile": "",
+      "title": "10 Stocks to Buy Now According to Hari Hariharan NWI Management",
+      "seendate": "20220225T160000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/03/21144845/shutterstock_567933841.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/teladoc-stock-jumps-after-teaming-up-with-amazon-alexa-2022-02-28",
+      "url_mobile": "https://www.marketwatch.com/amp/story/teladoc-stock-jumps-after-teaming-up-with-amazon-alexa-2022-02-28",
+      "title": "Teladoc stock jumps after teaming up with Amazon Alexa",
+      "seendate": "20220228T153000Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2022/02/22/why-amazon-stock-fell-today/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Why Amazon Stock Fell Today | The Motley Fool",
+      "seendate": "20220223T001500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/667306/associate-wearing-ppe-2.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

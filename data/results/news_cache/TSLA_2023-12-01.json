@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://seekingalpha.com/news/4040167-teslas-union-problems-in-sweden-include-trash-piling-up-and-no-mail-service",
+      "url_mobile": "",
+      "title": "Tesla union problems in Sweden include trash piling up and no mail service",
+      "seendate": "20231125T161500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/641806618/image_641806618.jpg?io=getty-c-w750",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4042161-teslas-cybertruck-launch-has-analysts-buzzing-over-the-master-plan",
+      "url_mobile": "",
+      "title": "Tesla Cybertruck launch has analysts buzzing over the master plan",
+      "seendate": "20231201T131500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1429035097/image_1429035097.jpg?io=getty-c-w750",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investorplace.com/2023/11/dear-tsla-stock-fans-mark-your-calendars-for-nov-30/",
+      "url_mobile": "",
+      "title": "Dear TSLA Stock Fans , Mark Your Calendars for Nov . 30",
+      "seendate": "20231127T200000Z",
+      "socialimage": "https://investorplace.com/wp-content/uploads/2023/07/tsla1600-1.png",
+      "domain": "investorplace.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4654311-wall-street-breakfast-podcast-us-sees-record-black-friday-online-sales",
+      "url_mobile": "",
+      "title": "Wall Street Breakfast Podcast : Record Black Friday Sales",
+      "seendate": "20231127T124500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1450819469/image_1450819469.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/Corporate+News/Tesla+(TSLA)+sues+Swedish+Govt+over+blocked+license+plates/22454870.html",
+      "url_mobile": "",
+      "title": "Tesla ( TSLA ) sues Swedish Govt over blocked license plates",
+      "seendate": "20231127T160000Z",
+      "socialimage": "http://www.streetinsider.com/https://www.streetinsider.com/images/summaries/1248/resize_TeslaFlagRE_62de7bca5aea8.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/11/28/better-stock-buy-tesla-or-rivian/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Better Stock Buy : Tesla or Rivian ? | The Motley Fool",
+      "seendate": "20231128T111500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/754617/electric-vehicle-charging-port-battery.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/11/26/exciting-news-for-tesla-stock-investors/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Exciting News for Tesla Stock Investors",
+      "seendate": "20231126T184500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/756101/two-teslas-in-a-line-driving-on-road.png",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

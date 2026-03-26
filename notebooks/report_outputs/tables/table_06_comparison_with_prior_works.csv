@@ -1,0 +1,5 @@
+﻿Study,Event / news grounding,CF validation,Artifact availability,Representative result / contribution
+Li and Fan [1],No article-level event grounding,No,Not the focus,"Anomaly attribution in financial networks, but not tied to article-level event evidence for one stock-day anomaly."
+Hu et al. (MindTS) [2],Not finance-specific grounding,No,Not the focus,"Multimodal anomaly detection via time-text alignment, but not centered on finance-specific grounded cause identification."
+Çalık et al. [3],No,No,Not the focus,"Prediction-oriented interpretability, but no grounded event retrieval and no rebuttal mechanism for anomaly causation."
+FinAnomX (this work),Yes,Yes,Yes: dashboard + grounded chatbot + packaged artifacts,Top-1 grounding confidence 0.795; full-text share 0.840; strong counterfactual support share 0.840; 25 grounded peaks with packaged dashboard + chatbot artifacts.

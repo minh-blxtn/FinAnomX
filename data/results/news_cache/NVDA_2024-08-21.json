@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/jim-cramer-believes-nvidia-corporation-013345169.html",
+      "url_mobile": "",
+      "title": "Jim Cramer Believes NVIDIA Corporation ( NVDA ) Could Potentially Quadruple Returns",
+      "seendate": "20240816T024500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-continued-rally-112129874.html",
+      "url_mobile": "",
+      "title": "NVIDIA Corporation ( NVDA ) Continued its Rally in Q2 Rising 36 . 9 % ",
+      "seendate": "20240821T120000Z",
+      "socialimage": "https://media.zenfs.com/en/insidermonkey.com/c620444f5984a111f51bbb2fd58922a9",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-tech-stock-233736162.html",
+      "url_mobile": "",
+      "title": "NVIDIA Corporation ( NVDA ): A Tech Stock to Monitor Amid Market Volatility According to Stacy Rasgon",
+      "seendate": "20240821T001500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-ai-stock-210331712.html",
+      "url_mobile": "",
+      "title": "NVIDIA Corporation ( NVDA ): An AI Stock You Should Not Miss",
+      "seendate": "20240820T213000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/08/21/aug-28-could-be-a-massive-day-for-nvidia-stock/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Aug . 28 Could Be a Massive Day for Nvidia Stock . Is It a Buy Right Now ? ",
+      "seendate": "20240822T000000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/787630/group-looking-at-a-chart-going-up.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/08/16/nvidia-sell-off-is-it-time-to-be-concerned/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Nvidia Sell - Off : Is It Time to Be Concerned ? ",
+      "seendate": "20240816T121500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/786493/nvidia-nvda-stock-market-chart.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/etfs-and-funds/sectors/sp500-nvidia-stock-made-investors-billion-richer-in-just-days/",
+      "url_mobile": "",
+      "title": "S & P 500 : Nvidia Stock Made Investors $764 Billion Richer In Just 8 Days",
+      "seendate": "20240820T144500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2024/06/Stock-Nvidia-cornice-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}
