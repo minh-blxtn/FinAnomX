@@ -1,5 +1,0 @@
-﻿Model,Role,auroc,auprc,precision,recall,f1,precision_at_5,precision_at_10,precision_at_20
-Chronos-2 benchmark (adaptive),Benchmark detector used for comparison,0.7887,0.3899,0.2921,0.4643,0.3586,1.0000,0.9000,0.8000
-TranAD (adaptive),Single-model deep detector baseline,0.8178,0.0696,0.1206,0.4286,0.1882,0.0000,0.0000,0.0000
-PatchTST + TranAD (adaptive),Operational main detector in the packaged pipeline,0.7980,0.0624,0.1275,0.2321,0.1646,0.0000,0.0000,0.0000
-PatchTST (adaptive),Single-model forecasting detector baseline,0.5544,0.0308,0.0351,0.2321,0.0610,0.0000,0.0000,0.0000
