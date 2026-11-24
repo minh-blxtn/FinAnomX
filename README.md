@@ -191,14 +191,6 @@ These files are not required by the Streamlit app or chatbot, and are safe to re
 streamlit run app/streamlit_app.py
 ```
 
-## Notes for GitHub
-
-- Commit `.gitignore`
-- Commit `.env.example`
-- Do not commit `.env`
-- Do not commit `.venv/`
-- Do not commit `__pycache__/`
-- Do not commit local debug caches or temporary logs
 
 ## Security note
 
