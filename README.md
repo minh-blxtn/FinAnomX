@@ -20,44 +20,6 @@ FinAnomX is an offline-first, artifacts-first pipeline for explainable financial
   - counterfactual evidence strength
   - packaged artifacts for the web app and chatbot
 
-## Repository structure
-
-```text
-FinAnomX/
-├── app/
-│   ├── streamlit_app.py
-│   ├── components.py
-│   ├── data_store.py
-│   └── chatbot/
-├── data/
-│   ├── external/
-│   ├── raw/
-│   ├── processed/
-│   └── results/
-├── models/
-│   ├── baselines/
-│   ├── dl/
-│   └── scalers/
-├── runs/
-├── src/
-│   ├── 00_preflight.py
-│   ├── 01_ingest_raw.py
-│   ├── 02_process_data.py
-│   ├── 03_build_event_windows.py
-│   ├── 04_baselines.py
-│   ├── 05_train_models.py
-│   ├── 06_infer_anomalies.py
-│   ├── 07_xai_numeric.py
-│   ├── 08_news_on_demand.py
-│   ├── 09_event_grounding.py
-│   ├── 10_evaluate.py
-│   ├── 11_pack_for_web.py
-│   └── utils/
-├── config.py
-├── requirements.txt
-├── .env.example
-└── README.md
-```
 
 ## Environment setup
 
